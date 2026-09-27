@@ -1,5 +1,5 @@
-// Cambia esta URL por la de tu proyecto en Vercel cuando lo tengas desplegado.
-const GAME_URL = 'https://TU-JUEGO.vercel.app';
+// URL para abrir el proyecto 8bit Vercel
+const GAME_URL = 'https://8bits-spacebattle-smpd.vercel.app/';
 
 const open = require('open');
 
